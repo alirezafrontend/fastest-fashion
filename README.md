@@ -1,6 +1,6 @@
 # fastest-fashion
 
-The second Project Designed By Html , Css 
+This fashion website project is built using HTML and CSS. You can visit the demo section to see it in action.
 
 
 ![viewfinal](https://github.com/user-attachments/assets/97c90df6-e0fe-417a-b803-6cd0c9722bd7)
